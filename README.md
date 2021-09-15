@@ -51,6 +51,7 @@ Presentar una introducción general a la Inteligencia Computacional, describiend
 
 ### Requerimientos de cómputo:
 •	Computadora portátil con acceso a internet.
+
 •	Cuenta en Google para acceder a Google Colab
 	
 ## Conocimientos deseables:
