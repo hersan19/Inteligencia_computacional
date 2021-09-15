@@ -2,8 +2,9 @@
 ### Repositorio de ejemplos del tutorial Inteligencia Computacional
 
 Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
+Instituto de Investigaciones en Inteligencia Artificial (IIIA) de la Universidad Veracruzana (UV).
 
-Instructores
+### Instructores
 * Dr. Héctor Gabriel Acosta Mesa
 * Dr. Efrén Mezura Montes
 * Mtra. Rocío Erandi Barrientos Martínez
