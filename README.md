@@ -1,8 +1,10 @@
 # Inteligencia computacional
 ### Repositorio de ejemplos del tutorial Inteligencia Computacional
 
-Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
-Instituto de Investigaciones en Inteligencia Artificial (IIIA) de la Universidad Veracruzana (UV).
+### Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
+
+### Instituto de Investigaciones en Inteligencia Artificial (IIIA) -
+### Universidad Veracruzana (UV).
 
 ### Instructores
 * Dr. Héctor Gabriel Acosta Mesa
