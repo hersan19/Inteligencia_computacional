@@ -26,6 +26,7 @@ Presentar una introducción general a la Inteligencia Computacional, describiend
 ### Temas 
 1. Inteligencia Artificial 
 2. Inteligencia Computacional
+3. 
    a) Paradigmas de la Inteligencia Computacional 
    
    b) Aprendizaje Automático 
