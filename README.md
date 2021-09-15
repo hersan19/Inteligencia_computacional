@@ -24,18 +24,18 @@ Después de una diferenciación entre IA e IC, se presentan los paradigmas princ
 Presentar una introducción general a la Inteligencia Computacional, describiendo sus paradigmas principales y reforzando el conocimiento con ejemplos prácticos. 
 
 ### Temas 
-1. Item 1 Inteligencia Artificial 
-2. Item 2 Inteligencia Computacional 
+1. Inteligencia Artificial 
+2. Inteligencia Computacional 
   2. Paradigmas de la Inteligencia Computacional 
   2. Aprendizaje Automático
-  2.	Redes Neuronales Artificiales 
-  2.	Ejemplos práctico Redes Neuronales Artificiales 
-  2.	Algoritmos Evolutivos 
-  2.	Ejemplo práctico Algoritmos Evolutivos 
-  2.	Inteligencia Colectiva 
-  2.	Ejemplo práctico Inteligencia Colectiva 
-  2.	Visión por computadora 
-  2.	Ejemplo práctico de Visión por Computadora 
+  2. Redes Neuronales Artificiales 
+  2. Ejemplos práctico Redes Neuronales Artificiales 
+  2. Algoritmos Evolutivos 
+  2. Ejemplo práctico Algoritmos Evolutivos 
+  2. Inteligencia Colectiva 
+  2. Ejemplo práctico Inteligencia Colectiva 
+  2. Visión por computadora 
+  2. Ejemplo práctico de Visión por Computadora 
   
 
 ### Duración: 4 hrs.
