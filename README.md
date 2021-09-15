@@ -1,7 +1,7 @@
 # Inteligencia computacional
 ### Repositorio de ejemplos del tutorial Inteligencia Computacional
 
-###### Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
+Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
 
 Instructores
 * Dr. Héctor Gabriel Acosta Mesa
