@@ -3,7 +3,7 @@
 
 ### Grupo de Investigación en Visión por Computadora, Redes Neuronales, Computación Evolutiva y sus Aplicaciones **COVNNEC-App**.
 
-### Instituto de Investigaciones en Inteligencia Artificial (IIIA) -
+### Instituto de Investigaciones en Inteligencia Artificial (IIIA) 
 ### Universidad Veracruzana (UV).
 
 ### Instructores
