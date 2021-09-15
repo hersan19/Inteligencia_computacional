@@ -26,17 +26,8 @@ Presentar una introducción general a la Inteligencia Computacional, describiend
 ### Temas 
 1. Inteligencia Artificial 
 2. Inteligencia Computacional 
-  2. Paradigmas de la Inteligencia Computacional 
-  2. Aprendizaje Automático
-  2. Redes Neuronales Artificiales 
-  2. Ejemplos práctico Redes Neuronales Artificiales 
-  2. Algoritmos Evolutivos 
-  2. Ejemplo práctico Algoritmos Evolutivos 
-  2. Inteligencia Colectiva 
-  2. Ejemplo práctico Inteligencia Colectiva 
-  2. Visión por computadora 
-  2. Ejemplo práctico de Visión por Computadora 
-  
+	2.1 Paradigmas de la Inteligencia Computacional 	
+
 
 ### Duración: 4 hrs.
 
