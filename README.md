@@ -25,8 +25,8 @@ Presentar una introducción general a la Inteligencia Computacional, describiend
 
 ### Temas 
 1. Inteligencia Artificial 
-2. Inteligencia Computacional 
-	2.1 Paradigmas de la Inteligencia Computacional 	
+2. Inteligencia Computacional⋅⋅
+  * A) Paradigmas de la Inteligencia Computacional 	
 
 
 ### Duración: 4 hrs.
