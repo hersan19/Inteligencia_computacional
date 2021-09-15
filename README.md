@@ -24,10 +24,9 @@ Después de una diferenciación entre IA e IC, se presentan los paradigmas princ
 Presentar una introducción general a la Inteligencia Computacional, describiendo sus paradigmas principales y reforzando el conocimiento con ejemplos prácticos. 
 
 ### Temas 
-1. Inteligencia Artificial 
-2.Inteligencia Computacional 
-
-  2.1	Paradigmas de la Inteligencia Computacional 
+1. Item 1 Inteligencia Artificial 
+2. Item 2 Inteligencia Computacional 
+  2. Item 3a Paradigmas de la Inteligencia Computacional 
   
   2.2	Aprendizaje Automático 
   
